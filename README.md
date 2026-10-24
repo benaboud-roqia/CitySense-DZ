@@ -115,6 +115,7 @@ npm start
 | `GET` | `/api/health` | Vérification de l'état du serveur et de la disponibilité du moteur IA |
 
 ---
+<img width="1916" height="899" alt="image" src="https://github.com/user-attachments/assets/c3008938-e50a-40b8-92a7-ede0cbfdfb16" />
 
 ## 🏛️ Contexte Territorial
 
