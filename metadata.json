@@ -1,0 +1,6 @@
+{
+  "name": "CitySense DZ",
+  "description": "Système intelligent de gestion urbaine, supervision du trafic par vision par ordinateur, détection proactive d'incidents et aide à la décision pour les communes algériennes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
